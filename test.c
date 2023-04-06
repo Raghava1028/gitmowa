@@ -8,6 +8,7 @@ class srujana
 		system.out.print("hello world");
 	}
 }
-
+                sop("good morning hyderabad")'
+		sop("tiffin ayinda")
 
 

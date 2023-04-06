@@ -7,4 +7,6 @@ class bank
 }
        system.out.print(withdrwal amount);
        withdrawal= withdrawal+ remaining cash;
-
+      {
+	      system.out.print( atm issue);
+      }

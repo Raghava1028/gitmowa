@@ -5,5 +5,6 @@ class hanuman
 		system.out.print("happy birthday hanuman ji");
 	}
 }
-
+          bless me hanuman ji
+	  once again happy birthday hanuman ji
 
